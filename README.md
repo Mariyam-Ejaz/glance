@@ -101,10 +101,10 @@ For additional help, refer to the [Next.js documentation](https://nextjs.org/doc
 ## Screenshots
 
 ### List View Page
-![List View Page]([path/to/your/list-view-page-screenshot.png](https://github.com/Mariyam-Ejaz/glance/blob/main/ListView.png))
+![List View Page]((https://github.com/Mariyam-Ejaz/glance/blob/main/ListView.png))
 
 ### Table View Page
-![Table View Page]([path/to/your/table-view-page-screenshot.png](https://github.com/Mariyam-Ejaz/glance/blob/main/TableView.png))
+![Table View Page]((https://github.com/Mariyam-Ejaz/glance/blob/main/TableView.png))
 
 ### Profile Detail View Page
-![Profile Detail View Page]([path/to/your/profile-detail-view-page-screenshot.png](https://github.com/Mariyam-Ejaz/glance/blob/main/Detail.png))
+![Profile Detail View Page]((https://github.com/Mariyam-Ejaz/glance/blob/main/Detail.png))
