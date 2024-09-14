@@ -6,7 +6,7 @@ This application fetches user data from [randomuser.me](https://randomuser.me) a
 
 ## Deployment
 
-- [Live Deployment](https://your-deployment-link.com)
+- [Glance](https://glance-delta.vercel.app/)
 
 ## File Structure
 
