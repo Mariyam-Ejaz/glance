@@ -1,0 +1,58 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 16px;
+
+  }
+  
+  .container {
+    padding: 20px;
+    background-color: #171717;
+    color: #d4d4d8;
+  }
+  
+  .actions{
+    display: flex;
+    gap: 5px;
+    padding-left: 8px;
+    padding-bottom: 10px;
+    align-items: center;
+  }
+  
+  .pagination {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    color: antiquewhite;
+  }
+
+  .pagination > ul > li {
+    color: #d4d4d8;
+  }
+  
+  .searchBar {
+    z-index: 10;
+  }
+
+  .refreshButton {
+    background-color: #2e2d2d;
+    border-radius: 10px;
+    padding: 12px;
+    display: flex;
+    font-weight: bolder;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+    color: #d4d4d8;
+  }
+  
+  .refreshButton:hover {
+    background-color: #1f1f1f;
+    color: #d4d4d8;
+  }
+
+  .icon{
+    -webkit-text-stroke: 2px white;
+  }
+  
